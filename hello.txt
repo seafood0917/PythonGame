@@ -1,4 +1,4 @@
-Hello this is first
+hello this is first
 
 
 This is change from PythonGame
